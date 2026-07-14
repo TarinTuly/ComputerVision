@@ -1,1 +1,10 @@
-git init
+streamlit
+streamlit-webrtc
+ultralytics
+opencv-python-headless
+deepface
+tensorflow
+tf-keras
+av
+numpy
+pillow
